@@ -1,0 +1,9 @@
+#image{
+	height: 200vh;
+    width: 200vw;
+	background-image: url("images/Registration.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: scroll;
+	padding: 0px;
+}
